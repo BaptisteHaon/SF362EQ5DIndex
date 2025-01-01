@@ -27,6 +27,6 @@ XXX
 \section{MARS}
 
 XXX
-\section{GBT}
+\section{RF}
 
 XXX
