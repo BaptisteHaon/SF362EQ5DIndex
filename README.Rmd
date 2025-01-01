@@ -5,7 +5,8 @@ output:
 ---
 \section{SF36 data to be passed to the functions}
 
-Columns must be named as follows. The order is not important.
+The abbreviations are as follows
+
 \begin{itemize}
 \item PF Physical Functionning score ranging from 0 to 100
 \item RP Role limitations due to Physical health score ranging from 0 to 100
