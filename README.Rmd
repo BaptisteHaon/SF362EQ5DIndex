@@ -19,14 +19,3 @@ The abbreviations are as follows
 \item AGE Patient's age ranging from 0 to 110
 \item GENDER Patient's gender coded as male=1 and female=2.
 \end{itemize}
-
-\section{OLS}
-
-XXX
-
-\section{MARS}
-
-XXX
-\section{RF}
-
-XXX
